@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://ryujinx.org/"><img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx/master/distribution/misc/Logo.svg" alt="Ryujinx" width="150"></a>
+  <a href="https://ryujinx.org/"><img src="https://raw.githubusercontent.com/Ryujinxemu/Ryujinx/master/distribution/misc/Logo.svg" alt="Ryujinx" width="150"></a>
   <br>
   <b>Ryujinx</b>
   <br>
@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://github.com/Ryujinx/Ryujinx/actions/workflows/release.yml">
-        <img src="https://github.com/Ryujinx/Ryujinx/actions/workflows/release.yml/badge.svg"
+        <img src="https://github.com/Ryujinxemu/Ryujinx/actions/workflows/release.yml/badge.svg"
             alt="">
     </a>
     <a href="https://crwd.in/ryujinx">
@@ -31,7 +31,7 @@
     </a>
     <br>
     <br>
-    <img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx-Website/master/public/assets/images/shell.png">
+    <img src="https://raw.githubusercontent.com/Ryujinxemu/Ryujinx-Website/master/public/assets/images/shell.png">
 </p>
 
 ## Compatibility
@@ -39,7 +39,7 @@
 As of May 2024, Ryujinx has been tested on approximately 4,300 titles;
 over 4,100 boot past menus and into gameplay, with roughly 3,550 of those being considered playable.
 
-You can check out the compatibility list [here](https://github.com/Ryujinx/Ryujinx-Games-List/issues).
+You can check out the compatibility list [here](https://github.com/Ryujinxemu/Ryujinx-Games-List/issues).
 
 Anyone is free to submit a new game test or update an existing game test entry;
 simply follow the new issue template and testing guidelines, or post as a reply to the applicable game issue.
