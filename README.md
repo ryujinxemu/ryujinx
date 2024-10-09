@@ -50,10 +50,10 @@ Use the search function to see if a game has been tested already!
 To run this emulator, your PC must be equipped with at least 8GiB of RAM;
 failing to meet this requirement may result in a poor gameplay experience or unexpected crashes.
 
-See our [Setup & Configuration Guide](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide) on how to set up the emulator.
+See our [Setup & Configuration Guide](https://github.com/Ryujinxemu/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide) on how to set up the emulator.
 
 For our Local Wireless (LDN) builds, see our [Multiplayer: Local Play/Local Wireless Guide
-](https://github.com/Ryujinx/Ryujinx/wiki/Multiplayer-(LDN-Local-Wireless)-Guide).
+](https://github.com/Ryujinxemu/Ryujinx/wiki/Multiplayer-(LDN-Local-Wireless)-Guide).
 
 Avalonia UI comes with translations for various languages. See [Crowdin](https://crwd.in/ryujinx) for more information.
 
@@ -62,9 +62,9 @@ Avalonia UI comes with translations for various languages. See [Crowdin](https:/
 These builds are compiled automatically for each commit on the master branch.
 While we strive to ensure optimal stability and performance prior to pushing an update, our automated builds **may be unstable or completely broken**.
 
-If you want to see details on updates to the emulator, you can visit our [Changelog](https://github.com/Ryujinx/Ryujinx/wiki/Changelog).
+If you want to see details on updates to the emulator, you can visit our [Changelog](https://github.com/Ryujinxemu/Ryujinx/wiki/Changelog).
 
-The latest automatic build for Windows, macOS, and Linux can be found on the [Official Website](https://ryujinx.org/download).
+The latest automatic build for Windows, macOS, and Linux can be found on the [Official Website](https://ryujinx.app/download).
 
 ## Documentation
 
@@ -81,7 +81,7 @@ Make sure your SDK version is higher or equal to the required version specified 
 
 ### Step 2
 
-Either use `git clone https://github.com/Ryujinx/Ryujinx` on the command line to clone the repository or use Code --> Download zip button to get the files.
+Either use `git clone https://github.com/Ryujinxemu/Ryujinx` on the command line to clone the repository or use Code --> Download zip button to get the files.
 
 ### Step 3
 
